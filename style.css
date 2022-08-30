@@ -6,7 +6,8 @@ body {
     background-size: 100% 100%;
     background-attachment: fixed;
     font-family: 'PT Sans', sans-serif;
-    
+    backdrop-filter: blur(2px);
+
 }
 
 h1 {
